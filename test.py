@@ -3,3 +3,7 @@ def foo():
 
 def hello(name):
     print(f"Hello, {name}!")
+    a=1
+    b=2
+    
+    
